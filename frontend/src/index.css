@@ -1,0 +1,12 @@
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+.rating .span {
+  margin: 0.1rem;
+  /* the difference between "'em" and "rem" is that "rem" is relative to the root (html), whereas "em" is relative to the parent */
+  /* "em" is the current font size, and the current font size can be set using font-size or inherit from parent */
+}
